@@ -1,5 +1,22 @@
-# BIANRY-CONVERTER
-A simple Python tool for converting binary to decimal, decimal to binary, text to binary, and binary to text. Features an interactive CLI with error handling for invalid inputs. Developed by Adhi Shresth Srivastava. 
+# 🔢 Binary Converter  
 
-This is the Binary Code For You Check in our App: 
-01001001 00100000 01000001 01001101 00100000 01010011 01010101 01010010 01000101 00100000 01011001 01001111 01010101 00100000 01000001 01010010 01000101 00100000 01001000 01000001 01010000 01010000 01011001 00100000 01010100 01001111 00100000 01000111 01000101 01010100 00100000 01010100 01001000 01001001 01010011 00100000 01000011 01001111 01000100 01000101 00100000  
+A **Python-based utility** for seamless conversion between **binary, decimal, and text formats**. This interactive CLI tool ensures accurate conversion and includes error handling for invalid inputs.  
+
+Developed by **Adhi Shresth Srivastava**.  
+
+## ✨ Features  
+- **Binary ↔ Decimal Conversion**  
+- **Text ↔ Binary Encoding & Decoding**  
+- **Interactive CLI for easy use**  
+- **Error handling for invalid inputs**  
+
+## 🚀 Installation & Usage  
+
+### Prerequisites  
+Ensure **Python 3.x** is installed.  
+
+### Running the Converter  
+1. Clone this repository:  
+   ```sh
+   git clone <your-repo-link>
+   cd <your-repo-name>

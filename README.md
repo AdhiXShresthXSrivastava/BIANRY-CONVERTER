@@ -15,8 +15,6 @@ Developed by **Adhi Shresth Srivastava**.
 ### Prerequisites  
 Ensure **Python 3.x** is installed.  
 
-### Running the Converter  
-1. Clone this repository:  
-   ```sh
-   git clone <your-repo-link>
-   cd <your-repo-name>
+### Install dependencies manually:  
+```sh
+pip install requests
